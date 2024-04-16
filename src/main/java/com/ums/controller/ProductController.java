@@ -37,5 +37,5 @@ public class ProductController {
             return ResponseModel.success(HttpStatus.OK, "Success", ProductService.getProductDetails(productId));
      }
 
-
+//new line
 }
